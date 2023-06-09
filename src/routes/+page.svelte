@@ -65,7 +65,7 @@
 	<div id="image-track" data-mouse-down-at="0" data-prev-percentage="0">
 		<img
 			class="image"
-			src="https://images.unsplash.com/photo-1524781289445-ddf8f5695861?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+			src="https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/nsusharks.com/images/2022/12/3/Image__20_.jpeg"
 			draggable="false"
 		/>
 		<img
@@ -90,17 +90,17 @@
 		/>
 		<img
 			class="image"
-			src="https://images.unsplash.com/photo-1496753480864-3e588e0269b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2134&q=80"
+			src="https://asset.dr.dk/imagescaler/?protocol=https&server=www.dr.dk&file=%2Fimages%2Fcrop%2F2021%2F05%2F12%2F1620812428_landshold_under_kurv_0.jpg&quality=70"
 			draggable="false"
 		/>
 		<img
 			class="image"
-			src="https://images.unsplash.com/photo-1613346945084-35cccc812dd5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1759&q=80"
+			src="https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/gatorzone.com/images/2021/11/5/Alberte_1.jpg"
 			draggable="false"
 		/>
 		<img
 			class="image"
-			src="https://images.unsplash.com/photo-1516681100942-77d8e7f9dd97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+			src="https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/nsusharks.com/images/2022/12/3/Image__20_.jpeg"
 			draggable="false"
 		/>
 	</div>
