@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
+
 	let track;
 	let mouseDownAt = 0;
 	let prevPercentage = 0;
